@@ -49,5 +49,5 @@ As the result, train, dev and test files are stored under the `data/processed/sp
 - `spa-Profession.csv`: to mark nouns as focus for gender intervention, we use a list of animate nouns, which is released under the `data/manual/` folder.
 - `paired-templates.csv`: to compare our method to templated-counterfactuals, we translate sentences in Winogender and WinoBias datasets. The translations are available under the `data/manual` folder.
 
-## Reproduce the plots
+## Reproduce The Plots
 Code to reproduce the analysis and plots in our paper is available in `analysis/analysis.ipynb`
