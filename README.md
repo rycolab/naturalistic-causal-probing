@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tpimentelms/counter-probing/blob/main/header.jpg">
+  <img src="https://github.com/tpimentelms/counter-probing/blob/main/header.jpg" width="200">
 </p>
 
 # Counterfactual Generation for Probing Contextualized Representations of Nouns
